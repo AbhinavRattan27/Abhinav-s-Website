@@ -1,0 +1,38 @@
+.wlcm{
+    text-align: center;
+    font-size:60px ;
+    color:white;
+}
+
+body{
+    background-color:lightgreen;
+    background-image: url(web-design-coding-web-developing-macbook.jpg);
+}
+
+a{
+    font-size: 30px;
+    font-style: italic;
+}
+
+.buttons{
+    padding:20px;
+    background-color:beige;
+}
+.span{
+    
+    padding-bottom: 100px;
+    background-color:aquamarine;
+   text-align: center;
+   bottom:-1px;
+   position: absolute;
+   padding-right: 20px;
+   padding-bottom: 2px;
+
+    
+
+}
+
+.mba{
+text-align: center;
+}
+
