@@ -13,6 +13,7 @@ a{
     font-size: 30px;
     font-style: italic;
     text-decoration:none;
+    color:inherit;
 }
 
 .buttons{
