@@ -12,8 +12,7 @@ body{
 a{
     font-size: 30px;
     font-style: italic;
-    text-decoration:none;
-    color:inherit;
+    text-decoration: none;
 }
 
 .buttons{
@@ -38,15 +37,8 @@ a{
 text-align: center;
 }
 
-.buttons:hover{
-  background-color: brown;
-}
 
-a{ color: inherit;
-  text-decoration: none;
- 
- } 
- .span1{
+    .span1{
         padding-bottom: 100px;
     background-color:aquamarine;
    text-align: center;
@@ -63,6 +55,8 @@ a{ color: inherit;
         padding-bottom: 510px;
     }
  
+    
+
 .span2{
     padding-bottom: 100px;
     background-color:aquamarine;
