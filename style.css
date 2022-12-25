@@ -18,6 +18,7 @@ a{
 .buttons{
     padding:20px;
     background-color:beige;
+     cursor: pointer;
 }
 .span{
     
