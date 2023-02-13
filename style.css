@@ -7,6 +7,8 @@
 body{
     background-color:lightgreen;
     background-image: url(web-design-coding-web-developing-macbook.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
 }
 
 a{
