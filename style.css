@@ -79,12 +79,10 @@ image{
     height:300px;
 }
 
-@media only screen and (max-width:829px{
-    body{background-repeat:repeat;}
-    .wlcm{
-    text-align: center;
-    font-size:80px ;
-    color:white;
+ @media only screen and (min-width: 414px){
+      body{
+           background-repeat:repeat;
+     }
 }
     
-    )
+    
